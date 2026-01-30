@@ -1,0 +1,42 @@
+2026-01-28 12:14:16,186 - INFO - Launching browser with user data dir: E:\Project\fenbi-crawler\user_data
+2026-01-28 12:14:17,278 - INFO - Please log in manually if required.
+2026-01-28 12:14:25,681 - INFO - Skipping filter: 推荐
+2026-01-28 12:14:25,742 - INFO - Found filters: ['国考', '国考模拟题', '省考模拟题', '安徽', '北京', '福建', '甘肃', '广东', '广西', '贵州', '海南', '河北', '河南', '黑龙江', '湖北', '湖南', '吉林', '江苏', '江西', '辽宁', '内蒙古', '宁夏', '青海', '山东', '山西', '陕西', '上海', '四川', '天津', '西藏', '新疆', '云南', '浙江', '重庆', '深圳市考', '广州市考', '政法干警', '选调']
+2026-01-28 12:26:01,154 - INFO - [国考] Task finished.
+2026-01-28 12:29:48,464 - INFO - [国考模拟题] Task finished.
+2026-01-28 12:31:07,312 - INFO - [省考模拟题] Task finished.
+2026-01-28 12:43:29,872 - INFO - [北京] Task finished.
+2026-01-28 12:44:30,353 - INFO - [安徽] Task finished.
+2026-01-28 12:47:00,935 - INFO - [福建] Task finished.
+2026-01-28 12:55:35,098 - INFO - [甘肃] Task finished.
+2026-01-28 13:01:01,116 - INFO - [广西] Task finished.
+2026-01-28 13:02:17,130 - INFO - [广东] Task finished.
+2026-01-28 13:10:52,073 - INFO - [海南] Task finished.
+2026-01-28 13:12:08,060 - INFO - [贵州] Task finished.
+2026-01-28 13:14:06,063 - INFO - [河北] Task finished.
+2026-01-28 13:24:04,551 - INFO - [河南] Task finished.
+2026-01-28 13:27:14,782 - INFO - [黑龙江] Task finished.
+2026-01-28 13:31:03,609 - INFO - [湖北] Task finished.
+2026-01-28 13:36:50,909 - INFO - [湖南] Task finished.
+2026-01-28 13:40:21,387 - INFO - [吉林] Task finished.
+2026-01-28 13:48:31,373 - INFO - [江西] Task finished.
+2026-01-28 13:54:19,771 - INFO - [江苏] Task finished.
+2026-01-28 13:56:53,428 - INFO - [辽宁] Task finished.
+2026-01-28 14:04:39,796 - INFO - [内蒙古] Task finished.
+2026-01-28 14:07:57,763 - INFO - [宁夏] Task finished.
+2026-01-28 14:13:07,736 - INFO - [青海] Task finished.
+2026-01-28 14:19:38,429 - INFO - [山东] Task finished.
+2026-01-28 14:23:16,839 - INFO - [山西] Task finished.
+2026-01-28 14:26:56,198 - INFO - [陕西] Task finished.
+2026-01-28 14:33:44,105 - INFO - [上海] Task finished.
+2026-01-28 14:38:29,749 - INFO - [西藏] Task finished.
+2026-01-28 14:39:37,824 - INFO - [四川] Task finished.
+2026-01-28 14:41:38,588 - INFO - [天津] Task finished.
+2026-01-28 14:43:34,386 - INFO - [新疆] Task finished.
+2026-01-28 14:44:32,931 - INFO - [云南] Task finished.
+2026-01-28 14:45:52,413 - INFO - [浙江] Task finished.
+2026-01-28 14:47:37,381 - INFO - [重庆] Task finished.
+2026-01-28 14:48:01,713 - INFO - [广州市考] Task finished.
+2026-01-28 14:48:33,709 - INFO - [深圳市考] Task finished.
+2026-01-28 14:51:18,864 - INFO - [政法干警] Task finished.
+2026-01-28 14:52:01,142 - INFO - [选调] Task finished.
